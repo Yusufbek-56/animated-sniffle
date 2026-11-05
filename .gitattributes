@@ -1,0 +1,4 @@
+*.html -text
+*.js -text
+*.webmanifest -text
+*.png binary
