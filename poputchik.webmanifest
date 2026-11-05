@@ -1,0 +1,25 @@
+{
+ "name": "Попутчик",
+ "short_name": "Попутчик",
+ "description": "Скорость, высота и всё, что за окном. Работает без интернета.",
+ "lang": "ru",
+ "start_url": "./poputchik.html",
+ "scope": "./poputchik.html",
+ "display": "standalone",
+ "background_color": "#0c0f11",
+ "theme_color": "#0c0f11",
+ "icons": [
+  {
+   "src": "poputchik-icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "poputchik-icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
